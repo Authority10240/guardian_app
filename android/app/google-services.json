@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "657803985525",
+    "firebase_url": "https://entacom-28445.firebaseio.com",
+    "project_id": "entacom-28445",
+    "storage_bucket": "entacom-28445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657803985525:android:e073b1b8dd4dda11b4ae3c",
+        "android_client_info": {
+          "package_name": "entacom.qbit.guardian_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657803985525-qq54mba41mhggr508jugc25330pglt7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "entacom.qbit.guardian_app",
+            "certificate_hash": "4beab9488ad9cd6327561a059b4723cfad36ce9f"
+          }
+        },
+        {
+          "client_id": "657803985525-a16klru2rj3959gmju68bbj7jlv9ekgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "entacom.qbit.guardian_app",
+            "certificate_hash": "0c6ec1a8370814002f5a7484ae7b616f66822943"
+          }
+        },
+        {
+          "client_id": "657803985525-99ust9kgfg6p2u4gnjjbduaarrf340eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "entacom.qbit.guardian_app",
+            "certificate_hash": "ea2d35c9f8957720b6895db5efa6fb50c6710cdc"
+          }
+        },
+        {
+          "client_id": "657803985525-1q2ov1ekv2g1pn8e6m4g4hhv5ca6f91f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIaYLrHwJeInou6Fmk6Iyju8mnqzspZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657803985525-1q2ov1ekv2g1pn8e6m4g4hhv5ca6f91f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657803985525-fg91c2srdnifplibgvl1rgdo80pg464n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "qubit.entacom.educatorApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657803985525:android:0dabdebec2781fbdb4ae3c",
+        "android_client_info": {
+          "package_name": "qubit.entacom.educator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657803985525-228o3j11p37spe7metbogp28bfak9f3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qubit.entacom.educator",
+            "certificate_hash": "0c6ec1a8370814002f5a7484ae7b616f66822943"
+          }
+        },
+        {
+          "client_id": "657803985525-h0jhvrf3jqci9fpme09obg56upjpm536.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qubit.entacom.educator",
+            "certificate_hash": "1233ba8a4cdda92142d60b33754b2a4afc6fe44c"
+          }
+        },
+        {
+          "client_id": "657803985525-3smcl2qprrs5ctnhb7cdubq6b5vfm602.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qubit.entacom.educator",
+            "certificate_hash": "61effa6fe3bd5257c095cd12242b7d7362e5db74"
+          }
+        },
+        {
+          "client_id": "657803985525-63e39motj544a8labo6mbbrmn9jluag6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qubit.entacom.educator",
+            "certificate_hash": "ea2d35c9f8957720b6895db5efa6fb50c6710cdc"
+          }
+        },
+        {
+          "client_id": "657803985525-1q2ov1ekv2g1pn8e6m4g4hhv5ca6f91f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIaYLrHwJeInou6Fmk6Iyju8mnqzspZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657803985525-1q2ov1ekv2g1pn8e6m4g4hhv5ca6f91f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657803985525-fg91c2srdnifplibgvl1rgdo80pg464n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "qubit.entacom.educatorApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
